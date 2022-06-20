@@ -1,0 +1,15 @@
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.AssemblyInfo.cs
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\bin\Debug\net5.0\ProvNet.Core.EntityFramework.deps.json
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\bin\Debug\net5.0\ProvNet.Core.EntityFramework.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\bin\Debug\net5.0\ref\ProvNet.Core.EntityFramework.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\bin\Debug\net5.0\ProvNet.Core.EntityFramework.pdb
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\bin\Debug\net5.0\ProvNet.Core.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\bin\Debug\net5.0\ProvNet.Core.pdb
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.csproj.CopyComplete
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ref\ProvNet.Core.EntityFramework.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.EntityFramework\obj\Debug\net5.0\ProvNet.Core.EntityFramework.pdb

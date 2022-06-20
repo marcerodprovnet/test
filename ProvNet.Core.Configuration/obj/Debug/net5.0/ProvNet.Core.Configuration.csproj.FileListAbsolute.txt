@@ -1,0 +1,12 @@
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\bin\Debug\net5.0\ProvNet.Core.Configuration.deps.json
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\bin\Debug\net5.0\ProvNet.Core.Configuration.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\bin\Debug\net5.0\ref\ProvNet.Core.Configuration.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\bin\Debug\net5.0\ProvNet.Core.Configuration.pdb
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ProvNet.Core.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ProvNet.Core.Configuration.AssemblyInfoInputs.cache
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ProvNet.Core.Configuration.AssemblyInfo.cs
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ProvNet.Core.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ProvNet.Core.Configuration.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ref\ProvNet.Core.Configuration.dll
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ProvNet.Core.Configuration.pdb
+C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core.Configuration\obj\Debug\net5.0\ProvNet.Core.Configuration.csproj.AssemblyReference.cache

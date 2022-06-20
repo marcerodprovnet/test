@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProvNet.Core</id>
+    <version>1.0.0</version>
+    <authors>ProvNet.Core</authors>
+    <description>Library ProvNet.core</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="AutoMapper.Extensions.Microsoft.DependencyInjection" version="8.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core\bin\Debug\net5.0\ProvNet.Core.runtimeconfig.json" target="lib\net5.0\ProvNet.Core.runtimeconfig.json" />
+    <file src="C:\Users\marcerodriguez\source\repos\ProvNet.Libraries\ProvNet.Core\bin\Debug\net5.0\ProvNet.Core.dll" target="lib\net5.0\ProvNet.Core.dll" />
+  </files>
+</package>

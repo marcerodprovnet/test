@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdVyJfn/2+G2PNjGZGxagDuB61XVcPr7+uragT/UE1NZea3AWn/8pvzBcTQuAuwjXiYtRMoEjlwtiNQpmxwlgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcerodriguez\\source\\repos\\ProvNet.Libraries\\ProvNet.Core.Configuration\\ProvNet.Core.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcerodriguez\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\marcerodriguez\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\marcerodriguez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
